@@ -1,0 +1,9 @@
+# atividade_28
+
+**Descrição:**
+Digite aqui o que essa atividade faz.
+
+**Como executar:**
+```bash
+python3 atividade_28.py
+```
