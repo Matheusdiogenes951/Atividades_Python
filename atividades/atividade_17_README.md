@@ -1,7 +1,7 @@
 # atividade_17
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Diz a parte inteira de um numero real
 
 **Como executar:**
 ```bash

@@ -1,7 +1,7 @@
 # atividade_10
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+O user digita o numero e em seguida aparece a tabuada do mesmo
 
 **Como executar:**
 ```bash

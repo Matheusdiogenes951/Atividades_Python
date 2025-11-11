@@ -1,7 +1,7 @@
 # atividade_34
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+O user digita 3 numeros, em seguida o programa indica qua o maior e o menor
 
 **Como executar:**
 ```bash

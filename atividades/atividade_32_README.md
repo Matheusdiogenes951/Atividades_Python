@@ -1,7 +1,7 @@
 # atividade_32
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Calcua o vaor da viagem de acordo com a distancia
 
 **Como executar:**
 ```bash

@@ -1,7 +1,7 @@
 # atividade_20
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Sorteia um numero
 
 **Como executar:**
 ```bash

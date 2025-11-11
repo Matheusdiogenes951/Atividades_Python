@@ -1,7 +1,7 @@
 # atividade_13
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Aplica um desconto de 5% ao valor x de um produto
 
 **Como executar:**
 ```bash

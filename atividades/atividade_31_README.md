@@ -1,7 +1,7 @@
 # atividade_31
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Ve se o numero e par ou impar
 
 **Como executar:**
 ```bash

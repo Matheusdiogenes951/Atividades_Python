@@ -1,7 +1,7 @@
 # atividade_14
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+calcula o valor de um salario x com o aumento de 15%
 
 **Como executar:**
 ```bash

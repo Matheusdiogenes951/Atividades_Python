@@ -1,7 +1,7 @@
 # atividade_28
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Diz primeiro e ultimo nome do user
 
 **Como executar:**
 ```bash

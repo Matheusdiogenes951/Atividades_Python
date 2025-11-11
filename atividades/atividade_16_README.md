@@ -1,7 +1,7 @@
 # atividade_16
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Ccacula o valor do aluguel de um carro a partir dos dias e km rodados
 
 **Como executar:**
 ```bash

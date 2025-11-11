@@ -1,7 +1,7 @@
 # atividade_22
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Toca um arquivo mp3
 
 **Como executar:**
 ```bash

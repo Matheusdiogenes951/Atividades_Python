@@ -1,7 +1,7 @@
 # atividade_12
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Cacula a area de um local e diz quanto de tinta sera necessario de tinta para pinta-lo
 
 **Como executar:**
 ```bash

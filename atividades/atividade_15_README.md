@@ -1,7 +1,7 @@
 # atividade_15
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Converte graus celsius para farenheit
 
 **Como executar:**
 ```bash

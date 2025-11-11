@@ -1,7 +1,7 @@
 # atividade_19
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Diz o valor do seno, cosseno e tangente do angulo x
 
 **Como executar:**
 ```bash

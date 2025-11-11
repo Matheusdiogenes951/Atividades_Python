@@ -1,7 +1,7 @@
 # atividade_25
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+Se no nome da cidade tiver "Santo " retorna true
 
 **Como executar:**
 ```bash

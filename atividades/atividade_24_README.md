@@ -1,7 +1,7 @@
 # atividade_24
 
 **Descrição:**
-Digite aqui o que essa atividade faz.
+separa a unidade, dezena, centena e milhar de um numero x
 
 **Como executar:**
 ```bash
