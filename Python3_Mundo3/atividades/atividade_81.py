@@ -1,13 +1,26 @@
-valores = []
+lista = []
 
-while True:
-    valor = int(input("Digite um valor: "))
-    valores.append(valor)
+v1 = int(input("Digite um valor: "))
+lista.append(v1)
+print("Valor adicionado com sucesso...  ")
 
-    opcao = input("Quer continuar? [S/N] ").strip().upper()
-    if opcao == 'N':
-        break
+v2 = int(input("Digite outro valor: "))
+lista.insert(0, v2)
+print("Valor adicionado com sucesso na pos 0 ")
+
+v3 = int(input("Digite outro valor: "))
+lista.insert(1, v3) 
+print("Valor adicionado com sucesso na pos 1  ")
+
+v4 = int(input("Digite outro valor: "))
+lista.append(v4)
+print("Valor adicionado com sucesso no final da lista ")
+
+v5 = int(input("Digite outro valor: "))
+lista.insert(0, v5)
+
+print("Valor adicionado com sucesso na pos 0 ")
 
 print("-=" * 30)
-print(f"Você digitou os valores {sorted(valores)}")
-print("Programa encerrado.")         
+print(f"Os valores digitados foram: {lista}")
+print("-=" * 30)
