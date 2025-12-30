@@ -1,8 +1,8 @@
-# atividade_75
+# atividade_83
 
 **Descrição:**
-Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
+Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
 **Como executar:**
 ```bash
-python3 atividade_75.py
+python3 atividade_83.py
 ```

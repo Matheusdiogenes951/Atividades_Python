@@ -1,8 +1,8 @@
-# atividade_75
+# atividade_80
 
 **Descrição:**
-Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
+Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 **Como executar:**
 ```bash
-python3 atividade_75.py
+python3 atividade_80.py
 ```

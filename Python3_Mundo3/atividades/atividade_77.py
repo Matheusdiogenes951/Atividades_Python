@@ -10,6 +10,7 @@ listagem = ("Lapis", 1.75,
 
 print("-" * 40)
 print(f"{'LISTAGEM DE PRECOS':^40}")
+print("-" * 40)
 for item in range (0 , len(listagem)):
     if item % 2 == 0:
         print(f'{listagem[item]:.<30}')

@@ -1,19 +1,26 @@
-listagem = ("Lapis", 1.75,
-            "Borracha", 2.00,
-            "Caderno", 15.90,
-            "Estojo", 25.00,
-            "Transferidor", 4.20,
-            "Compasso", 9.99,
-            "Mochila", 120.32,
-            "Canetas", 22.30,
-            "Livro", 34.90)
-
-print("-" * 40)
-print(f"{'LISTAGEM DE PRECOS':^40}")
-for item in range (0 , len(listagem)):
-    if item % 2 == 0:
-        print(f'{listagem[item]:.<30}')
+Valores = []
+maior = 0
+menor = 0
+for c in range(0, 5):
+    Valores.append(int(input(f"Digite um valor para a posicao {c}")))
+    if c == 0:
+        maior = menor = Valores[c]
     else:
-        print(f"R${listagem[item]:>7.2f}")
+        if Valores[c] > maior:
+            maior = Valores[c]
+        if Valores[c] < menor:
+            menor = Valores[c]
 
-print("-" * 40)
+
+print("-=" * 30)
+print(f"Voce digitou os valores {Valores}")
+print(f"O maior valor digitado foi {maior} nas posicoes ", end="")
+for i, v in enumerate(Valores):
+    if v == maior:
+        print(f"{i}...", end="")
+print()
+print(f"O menor valor digitado foi {menor} nas posicoes ", end="")
+for i, v in enumerate(Valores):
+    if v == menor:
+        print(f"{i}...", end="")
+print()

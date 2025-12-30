@@ -1,8 +1,9 @@
-# atividade_75
+# atividade_77
 
 **Descrição:**
-Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
+Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+
 **Como executar:**
 ```bash
-python3 atividade_75.py
+python3 atividade_77.py
 ```

@@ -7,10 +7,11 @@ while True:
     else:
         valores.append(valor)
 
-    opcao = input("Quer continuar? [S/N] ").strip().upper()
+    opcao = str(input("Quer continuar? [S/N] ")).strip().upper()
     if opcao == 'N':
-        break
+         print("\nPrograma encerrado.")
+         break
 
-print("-=" * 30)
-print(f"Você digitou os valores {sorted(valores)}")
-print("Programa encerrado.")         
+
+    print("-=" * 30)
+    print(f"Voce digitou os valores {sorted(valores)}")         
