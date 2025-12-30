@@ -1,19 +1,17 @@
 expressao = input("Digite uma expressão: ")
 pilha = []
 
-for char in expressao:
-    if char == '(':
-        pilha.append(char)
-    elif char == ')':
-        if not pilha:
-            print("Sua expressão é inválida")
+for simb in expressao:
+    if simb == '()':
+        pilha.append('()')
+    elif simb == ')':
+        if len(pilha) > 0:
+            pilha.pop()
+        else:
+            pilha.append(')')
             break
-        pilha.pop()
+
+if len(pilha) == 0:
+    print('Sua expressao esta valida!')
 else:
-    if not pilha:
-        print("Sua expressão é válida")
-    else:
-        print("Sua expressão é inválida")
-
-
- 
+    print("Sua expressao esta invalida!")
