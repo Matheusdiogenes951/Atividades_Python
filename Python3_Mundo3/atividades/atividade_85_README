@@ -1,7 +1,11 @@
 # atividade_85
 
 **Descrição:**
-Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
+Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:
+                                                                                                    
+A) Quantas pessoas foram cadastradas.                                                                                                                
+B) Uma listagem com as pessoas mais pesadas.                                                                                                    
+C) Uma listagem com as pessoas mais leves.
 **Como executar:**
 ```bash
 python3 atividade_85.py
