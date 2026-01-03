@@ -1,8 +1,8 @@
-# atividade_90
+# atividade_91
 
 **Descrição:**
-Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
+Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
 **Como executar:**
 ```bash
-python3 atividade_90.py
+python3 atividade_91.py
 ```

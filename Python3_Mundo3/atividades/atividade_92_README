@@ -1,8 +1,8 @@
-# atividade_90
+# atividade_92
 
 **Descrição:**
-Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
+Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
 **Como executar:**
 ```bash
-python3 atividade_90.py
+python3 atividade_92.py
 ```
