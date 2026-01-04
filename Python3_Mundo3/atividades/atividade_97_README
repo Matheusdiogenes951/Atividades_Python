@@ -1,9 +1,9 @@
-# atividade_96
+# atividade_97
 
 **Descrição:**
-Aprimore o desafio 94 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
 **Como executar:**
 ```bash
-python3 atividade_96.py
+python3 atividade_97.py
 ```
