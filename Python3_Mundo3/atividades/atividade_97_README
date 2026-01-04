@@ -1,0 +1,9 @@
+# atividade_96
+
+**Descrição:**
+Aprimore o desafio 94 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+
+**Como executar:**
+```bash
+python3 atividade_96.py
+```
