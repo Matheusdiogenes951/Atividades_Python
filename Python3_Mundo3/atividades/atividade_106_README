@@ -1,0 +1,14 @@
+# atividade_106
+
+**Descrição:**
+Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
+
+-  Quantidade de notas
+- a maior nota
+- a menor nota
+- a media
+- a situacao 
+**Como executar:**
+```bash
+python3 atividade_106.py
+```
