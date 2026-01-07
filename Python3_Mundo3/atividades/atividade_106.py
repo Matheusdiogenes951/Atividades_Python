@@ -11,6 +11,7 @@ def notas(a=0, b=0, c=0, sit=False):
         else:
             situacao = "RUIM"
         return maior, menor, media, situacao
+    return maior, menor, media
 
 
 # Programa principal
