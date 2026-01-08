@@ -1,0 +1,12 @@
+# atividade_108
+
+**Descrição:**
+Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade().
+Faça também um programa que importe esse módulo e use algumas dessas funções.
+
+
+
+**Como executar:**
+```bash
+python3 atividade_108.py
+```
