@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1281b6d8-824d-4d63-bd53-66cd8e29e3d2" name="Changes" comment="" />
+    <list default="true" id="1281b6d8-824d-4d63-bd53-66cd8e29e3d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Matheusdiogenes951"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Matheusdiogenes951&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Matheusdiogenes951/Atividades_Python.git",
-    "accountId": "4a2b57c6-7eb5-40e1-b22e-a14a34a42a7e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Matheusdiogenes951/Atividades_Python.git&quot;,
+    &quot;accountId&quot;: &quot;4a2b57c6-7eb5-40e1-b22e-a14a34a42a7e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -43,23 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.atividade_1.executor": "Run",
-    "Python.atividade_10.executor": "Run",
-    "Python.atividade_7.executor": "Run",
-    "Python.separador (1).executor": "Run",
-    "Python.separador.executor": "Run",
-    "Python.teste.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mathe/Documents/GitHub/Atividades_Python/Python3_Mundo3/atividades/Modulos",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.atividade_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atividade_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.separador (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.separador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mathe/Documents/GitHub/Atividades_Python/Python3_Mundo3/atividades/Modulos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mathe\Documents\GitHub\Atividades_Python\Python3_Mundo3\atividades\Modulos" />
