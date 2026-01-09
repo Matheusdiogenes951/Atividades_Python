@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1281b6d8-824d-4d63-bd53-66cd8e29e3d2" name="Changes" comment="" />
+    <list default="true" id="1281b6d8-824d-4d63-bd53-66cd8e29e3d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,25 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.atividade_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.atividade_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.separador (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.separador.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mathe/Documents/GitHub/Atividades_Python/Python3_Mundo3/atividades/Modulos&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.atividade_1.executor": "Run",
+    "Python.atividade_10.executor": "Run",
+    "Python.atividade_7.executor": "Run",
+    "Python.separador (1).executor": "Run",
+    "Python.separador.executor": "Run",
+    "Python.sistema.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/mathe/Documents/GitHub/Atividades_Python/Python3_Mundo3/atividades/Modulos/ex115",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mathe\Documents\GitHub\Atividades_Python\Python3_Mundo3\atividades\Modulos\ex115" />
       <recent name="C:\Users\mathe\Documents\GitHub\Atividades_Python\Python3_Mundo3\atividades\Modulos" />
       <recent name="C:\Users\mathe\Documents\GitHub\Atividades_Python\Python3_Mundo3\atividades\Modulos\Atvd 108" />
       <recent name="C:\Users\mathe\PycharmProjects\atividades_python\atividades" />
@@ -70,29 +74,7 @@
       <recent name="C:\Users\mathe\PycharmProjects\atividades_python\atividades" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste">
-    <configuration name="atividade_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="atividades_python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades/atividades" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades/atividades/atividade_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sistema">
     <configuration name="atividade_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="atividades_python" />
       <option name="ENV_FILES" value="" />
@@ -159,6 +141,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="atividades_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex115/sistema.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="atividades_python" />
       <option name="ENV_FILES" value="" />
@@ -183,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sistema" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.atividade_10" />
         <item itemvalue="Python.separador (1)" />
         <item itemvalue="Python.atividade_7" />
-        <item itemvalue="Python.atividade_1" />
       </list>
     </recent_temporary>
   </component>
