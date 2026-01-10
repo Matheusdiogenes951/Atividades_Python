@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1281b6d8-824d-4d63-bd53-66cd8e29e3d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex116b/cursoemvideo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex116c/cursoemvideo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex116c/lib/arquivo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex116c/lib/arquivo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex116c/sistema.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3_Mundo3/atividades/Modulos/ex116c/sistema.py" afterDir="false" />
-    </list>
+    <list default="true" id="1281b6d8-824d-4d63-bd53-66cd8e29e3d2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
