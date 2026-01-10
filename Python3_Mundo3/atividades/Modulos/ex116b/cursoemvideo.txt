@@ -1,4 +1,0 @@
-Gustavo;50
-Matheus;16
-Nate Diaz;29
-Nick Diaz;30

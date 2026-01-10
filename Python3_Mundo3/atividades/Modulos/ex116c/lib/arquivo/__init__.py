@@ -20,18 +20,22 @@ def criarArquivo(nome):
     else:
         print(f'Arquivo {nome} criado com sucesso')
 
-def lerArquivo(arquivo):
+def lerArquivo(nome):
     try:
-        a = open(arquivo, 'rt')
+        a = open(nome, 'rt')
     except:
         print('Ouve um erro')
     else:
         cabecalho('PESSOAS CADASTRADAS')
-        print(a.read())
+        for linha in a:
+            dado = linha.split(';')
+            dado[1] = dado[1].replace('\n', '')
+            print(f'Nome: {dado[0]:<30} Idade: {dado[1]:>3}')
+
     finally:
         a.close()
 
-def cadastrar(arquivo, nome='desconhecido', idade=0):
+def cadastrar(arq, nome='desconhecido', idade=0):
     try:
         a = open(arq, 'at')
     except:
@@ -43,3 +47,4 @@ def cadastrar(arquivo, nome='desconhecido', idade=0):
             print('Ouve um erro')
         else:
             print(f'novo registro de {nome} criado com sucesso')
+            a.close()
