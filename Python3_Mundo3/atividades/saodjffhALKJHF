@@ -7,6 +7,7 @@ a) Os 5 primeiros times.
 b) Os últimos 4 colocados.
 c) Times em ordem alfabética.
 d) Em que posição está o time da Chapecoense.
+**Como executar:**
 ```bash
 python3 atividade_74.py
 ```
